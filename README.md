@@ -21,8 +21,14 @@ scipy==1.11.3
 matplotlib==3.7.1
 numpy==1.23.5
 scikit_learn==1.2.2
-cv2==4.8.0
+opencv-python==4.8.0
 ```
+To install the required dependencies, you can use the following command:
+
+```
+pip install -r requirements.txt
+```
+
 ## Results
 
 These are the scores for the different models implemented in the notebook:
