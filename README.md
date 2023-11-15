@@ -2,7 +2,7 @@
 
 ## Task:
 The task we have addressed with this project was to correctly classify 8 different types of white blood cells : Eosinophils, Erythroblasts, Immature Granulocytes, Lymphocytes, Neutrophils, Monocytes, and
-Platelets using the CNN. This project was part of the 'Deep Learning for Computer Vision' 20600.
+Platelets using the CNN. This project was part of the Deep Learning for Computer Vision's course (20600) at Bocconi University.
 
 ## Short explanation of our approach
 
